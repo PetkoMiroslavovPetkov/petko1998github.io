@@ -9,7 +9,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : URBAN GALLERY
 
-**Web:**   (url github.io)
+**Web:**   
 
 **Autor:**  Petko Miroslavov.
 
