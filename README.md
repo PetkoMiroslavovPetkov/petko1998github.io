@@ -84,13 +84,7 @@ Ademas para que el paso por la galeria sea mas agradable he añadido musica,lo c
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
-
+Como conclusion la verdad que he disfrutado mucho haciendo este prpyecto ya que a pesar de que en principio puede parecer que con el Hippani no se puede hacer gran cosa la verdad esque te permite hacer todo lo que puedas imaginarte solo que alomejor no es tan facil y tan intuitivo de usar como otros programas similares.En un futuro me gustaria poder terminar el portfolio como habia planeado ya que por el tema de que se me ha borrado varias veces lo realizado lo he dejado un poco a medias pero espero poder acabrlo en un futuro no muy lejano.
 
 # 5 Referencias 
 
@@ -113,7 +107,7 @@ Vibe Chemistry-Balling
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![изображение](https://user-images.githubusercontent.com/106822113/173119035-6a5d1bac-03cc-4c1c-8545-034f0542a4e2.png)
 
 https://creativecommons.org/licenses/?lang=es
 
