@@ -7,54 +7,41 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : URBAN GALLERY
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Petko Miroslavov.
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** :
+En este proyecto mi intencion era crear una pagina web en la cual mi obra fuese visible.
+**Estilo/género:** 
+se trata de un porfolio.
+**Logotipo**
+: WHITY¨  el logotipo son simples letras ya que se trata de una firma.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** El tamaño del proyecto el de 600x400 pixeles.
 
-(insertar imágenes a resolucion de 100px alto)
+**Probado en:**  Ha sido probado solamente en un ordenador, en el Google Chrome.
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 235MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
+**Medios** 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+Como he mencionado anteriormente mi intencion es crear un porfolio para poder ver obras realizas por mi, la presentacion comienza con una entrada la cual pasa al menu el la galeria, en la galeria pudes encontrar los botones de pintura, dibujo, graffiti y escultura, botones los cual te llevan a otra escena donde ahi estan las obras del tema elegido. Ademas tambien tenemos en boton de ajustes donde nos lleva a una escena en la cual podemos reproducir musica y ver el video.
 
 ### 2.2. Esquema de navegación 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
@@ -70,44 +57,30 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+para llegar a este proyecto he tenido varias inspiracion de distintas paginas web de artistas en las cuales exponen su obra para venderla.
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+En mi opinion este proyecto es interesante ya que en el hay una gran variedad de obras y la interaccion hace que sea a un mas ameno viajar por este porfolio 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
+A pesar de que este porfolio lo puede llegar a ententer y disfrutar cualquier persona a pesar de su edad,personalmente me gustria dirigirlo hacia un publico de entre 20 y 35 años ya que creo qe ese es el publico al cual mas le puede interesar la obra presentada.
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
-
+Para realizar el porfolio lo mas importante es ralizar una galeria en la cual puedas navegar por las obras de manera facil y fluida para ello he creado unos botones los cuales al hacer click van pasando las imagenes una por una, 
+Ademas para que el paso por la galeria sea mas agradable he añadido musica,lo cual me resulto un poco dificil pero finalemente todo se pudo solucionar.
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
-
-
+ 
+ En esta presentacion hay dos graves errores que no he podido solucionar los cuales son, que en la escena del menu hay un boton en el cual esta escrito ¨skate¨ y realmente debreia de poner ¨escultura¨ pero no encontraba la aplicacion para realizar el mismo tipo de letras. Y luego dentro de la escena de escultura si quieres cambiar de imagen va a salir error ya que mi version de hippani no me perminte quitar las fotos de la linea del tiempo por lo que no se pueden ver las distintas imagenes.
 
 # 4. Conclusiones 
 
@@ -123,18 +96,20 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
-
+* Musica: 
+Bou-Talk To Me
+Bru-c x Simula-You and I
+Vibe Chemistry-Balling
+* Imágenes:
+ las imagenes utilizadas para este proyecto se encuentran en un carpeta situada en el repositorio
+* Tipografía:
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop
+- IbisPaint
 
 
 
@@ -142,4 +117,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
